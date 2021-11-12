@@ -1,14 +1,14 @@
 <div dir="rtl">
 
-# <center> به نام خدا </center>
+# `<center>` به نام خدا `</center>`
 
-# <center> تمرین درس پردازش گفتار </center>
+# `<center>` تمرین درس پردازش گفتار `</center>`
 
-## <center> **استاد:** _دکتر بختیاری_ </center>
+## `<center>` **استاد:** _دکتر بختیاری_ `</center>`
 
-## <center> **دانشجو:** _سینا بهنام_ </center>
+## `<center>` **دانشجو:** _سینا بهنام_ `</center>`
 
-## <center> **تابستان 1400** </center>
+## `<center>` **تابستان 1400** `</center>`
 
 </div>
 
@@ -175,21 +175,6 @@ signal_distances_lastname_lastname_bymyself = signal_dtw_calculation(lastname_by
 signal_distances_lastname_lastname_bymyself
 ```
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
-
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
@@ -556,15 +541,7 @@ features_distances_lastname_lastname_bymyself
         vertical-align: middle;
     }
 
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
 
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
@@ -787,15 +764,7 @@ signal_distances_firstname_bymyself
         vertical-align: middle;
     }
 
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
 
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
@@ -990,15 +959,6 @@ signal_distances_firstname_lastname_bymyself
         vertical-align: middle;
     }
 
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
-
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
@@ -1231,15 +1191,6 @@ features_distances_firstname_bymyself
         vertical-align: middle;
     }
 
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
-
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
@@ -1437,15 +1388,6 @@ features_distances_firstname_lastname_bymyself
         vertical-align: middle;
     }
 
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
-
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
@@ -1670,15 +1612,7 @@ signal_distances_lastname_lastname_byperson1_bymyself
         vertical-align: middle;
     }
 
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
 
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
@@ -1912,15 +1846,6 @@ features_distances_lastname_byperson1
         vertical-align: middle;
     }
 
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
-
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
@@ -2113,15 +2038,6 @@ features_distances_lastname_byperson1_bymyself
         vertical-align: middle;
     }
 
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
-
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
@@ -2346,15 +2262,7 @@ signal_distances_firstname_byperson1_bymyself
         vertical-align: middle;
     }
 
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
 
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
@@ -2588,15 +2496,7 @@ features_distances_firstname_byperson1_bymyself
         vertical-align: middle;
     }
 
-```
-.dataframe tbody tr th {
-    vertical-align: top;
-}
 
-.dataframe thead th {
-    text-align: right;
-}
-```
 
 </style>
 <table border="1" class="dataframe">
