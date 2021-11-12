@@ -1,14 +1,14 @@
 <div dir="rtl">
 
-# `<center>` به نام خدا `</center>`
+# <center> به نام خدا </center>
 
-# `<center>` تمرین درس پردازش گفتار `</center>`
+# <center> تمرین درس پردازش گفتار </center>
 
-## `<center>` **استاد:** _دکتر بختیاری_ `</center>`
+## <center> **استاد:** _دکتر بختیاری_ </center>
 
-## `<center>` **دانشجو:** _سینا بهنام_ `</center>`
+## <center> **دانشجو:** _سینا بهنام_ </center>
 
-## `<center>` **تابستان 1400** `</center>`
+## <center> **تابستان 1400** </center>
 
 </div>
 
