@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # `<center>` به نام خدا `</center>`
 
 # `<center>` تمرین درس پردازش گفتار `</center>`
